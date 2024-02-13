@@ -1,0 +1,70 @@
+﻿// Задача 1 - Вывод чисел от M до N
+
+void PrintNumbers (int max, int min)
+{
+if (max > min)
+{
+    PrintNumbers(max - 1, min);
+}
+Console.Write(max + "; ");
+}
+Console.Write("Enter M: ");
+int M = Convert.ToInt32(Console.ReadLine());
+Console.Write("Enter N: ");
+int N = Convert.ToInt32(Console.ReadLine());
+if (M > N)
+{
+    PrintNumbers(M, N);
+}
+else
+{
+    PrintNumbers(N, M);
+}
+
+// Задача 2 - Функция Аккермана
+
+// int AkkermanFunction(int m, int n)
+// {
+//     if (m == 0)
+//     {
+//         return n + 1;
+//     }
+//     else if (n == 0)
+//     {
+//         return AkkermanFunction(m - 1, 1);
+//     }
+//     else
+//     {
+//         return AkkermanFunction(m - 1, AkkermanFunction(m, n - 1));
+//     }
+// }
+// Console.Write("Enter m: ");
+// int m = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Enter n: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Result is: " + AkkermanFunction(m, n));
+
+// Задача 3 - Массив в обратном порядке
+
+// string[] CreateArray(int size)
+// {
+// string[] array = new string[size];
+//     for (int i = 0; i < size; i++)
+//     {
+//         Console.Write($"Enter element {i} (string): ");
+//         array[i] = Console.ReadLine();
+//     }
+//     return array;
+// }
+// void PrintReversedArray(string[] array, int size)
+// {
+//     Console.Write(array[size-1] + "; ");
+//     if (size > 1)
+//     {
+//         PrintReversedArray(array, size - 1);
+//     }
+// }
+// Console.Write("Enter array size: ");
+// int size = Convert.ToInt32(Console.ReadLine());
+// string[] newArray = CreateArray(size);
+// PrintReversedArray(newArray, size);

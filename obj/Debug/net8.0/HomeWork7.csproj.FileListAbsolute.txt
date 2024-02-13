@@ -1,0 +1,14 @@
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\bin\Debug\net8.0\HomeWork7.exe
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\bin\Debug\net8.0\HomeWork7.deps.json
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\bin\Debug\net8.0\HomeWork7.runtimeconfig.json
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\bin\Debug\net8.0\HomeWork7.dll
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\bin\Debug\net8.0\HomeWork7.pdb
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.AssemblyInfoInputs.cache
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.AssemblyInfo.cs
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.dll
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\refint\HomeWork7.dll
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.pdb
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\HomeWork7.genruntimeconfig.cache
+C:\Users\Vitaliy Salomatov\Documents\Geek Brains\4_Программирование\Seminar7\HomeWork7\obj\Debug\net8.0\ref\HomeWork7.dll

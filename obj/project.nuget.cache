@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YKgczUB1NqIBFVil/LzPgVSPn7++w2e8HAsNh2f7kUxa/ppWeUyFqmtXRfuLVK6dYCDY6kVJFUny2x1atXFooQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vitaliy Salomatov\\Documents\\Geek Brains\\4_Программирование\\Seminar7\\HomeWork7\\HomeWork7.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The SSL connection could not be established, see inner exception."
+    }
+  ]
+}
